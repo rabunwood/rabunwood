@@ -1,5 +1,10 @@
 {
   "sections": {
+    "16466103241e44e881": {
+      "type": "hero",
+      "settings": {
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -66,6 +71,7 @@
     }
   },
   "order": [
+    "16466103241e44e881",
     "multicolumn",
     "featured_collection"
   ]
