@@ -1,0 +1,21 @@
+:root{
+ ========= Custom Colors ==================
+
+--header-height: 3rem;
+
+--hue-color: 206;
+--black-color: hsl(var(--hue-color), 4%, 4%);
+--black-color-alt: hsl(var(--hue-color), 4%, 8%);
+--title-color: hsl(var(--hue-color), 4%, 95%);
+--text-color: hsl(var(--hue-color), 4%, 75%);
+--text-color-light: hsl(var(--hue-color), 4%, 65%);
+--white-color: #FFF;
+--red-color: #eb1c22;
+--body-color: hsl(var(--hue-color), 4%, 6%);
+--container-color: hsl(var(--hue-color), 4%, 10%);
+--text-gradient: linear-gradient(hsl(var(--hue-color), 4%, 24%), hsl(var(--hue-color), 4%, 8%));
+--scroll-thumb-color: hsl(var(--hue-color), 4%, 16%);
+--scroll-thumb-color-alt: hsl(var(--hue-color), 4%, 20%);
+
+========= End of Custom Colors ===========
+}
