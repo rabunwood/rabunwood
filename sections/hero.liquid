@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="{{ 'main.css' | asset_url }}" media="print" onload="this.media='all'">
+<noscript>{{ 'main.css' | asset_url | stylesheet_tag }}</noscript>
+
+
 {% schema %}
   {
     "name": "Hero Section",
