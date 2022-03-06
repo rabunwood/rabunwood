@@ -9,6 +9,8 @@ assign show_mobile_slider = true
 endif
 -%}
 
+{% for block in section.blocks %}
+	{% assign item = block.settings %}
 <section class="home section" id="home">
  <div class="home__container container grid">
   <div>
@@ -32,6 +34,7 @@ endif
   </div>
  </div>
 </section>
+{% endfor %}
 
 {% schema %}
   {
