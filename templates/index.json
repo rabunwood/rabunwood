@@ -1,19 +1,5 @@
 {
   "sections": {
-    "16466124876cb940f6": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<main class=\"home__main\">\n<section class=\"home_section\">\n <div class=\"home__container container grid\">\n  <div class=\"home__data\">\n   <div class=\"home__header\">\n    <h2 class=\"home__subtitle\">to Rabunwood<\/h2>\n    <h1 class=\"home__title\">Welcome<\/h1>\n   <\/div>\n\n   <div class=\"home__footer\">\n    <p class=\"home__description\">We are a veteran-owned small woodworking and design company,\n     We develop all our products with the same mission focus we learned as military members serving this great country\n     and are committed to supporting veterans,\n     law enforcement, and first responders. All our products are Hand-made which means that no two products are alike.\n    <\/p>\n   <\/div>\n  <\/div>\n <\/div>\n<\/section>\n<\/main>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "16466103241e44e881": {
-      "type": "hero",
-      "settings": {
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -36,8 +22,6 @@
     }
   },
   "order": [
-    "16466124876cb940f6",
-    "16466103241e44e881",
     "featured_collection"
   ]
 }
