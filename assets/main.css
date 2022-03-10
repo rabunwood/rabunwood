@@ -231,13 +231,13 @@ img {
 /*=============== HOME ===============*/
 .home__vo {
  position: relative;
- top: 20rem;
+ top: 10rem;
 }
 
 .home__img {
   width: 250px;
   position: absolute;
-  top: -25rem;
+  top: -15rem;
   right: 1.5rem;
 }
 
