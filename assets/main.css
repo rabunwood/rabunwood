@@ -231,6 +231,7 @@ img {
 /*=============== HOME ===============*/
 .home__vo {
  position: relative;
+ background-color: var(--container-color);
  top: 20rem;
 }
 
