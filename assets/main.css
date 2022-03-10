@@ -229,15 +229,16 @@ img {
 }
 
 /*=============== HOME ===============*/
+.home__vo {
+ position: relative;
+ top: 20rem;
+}
+
 .home__img {
   width: 250px;
   position: absolute;
   top: -25rem;
   right: 1.5rem;
-}
-  
-.home__vo {
- top: 20rem;
 }
 
 .home__data {
