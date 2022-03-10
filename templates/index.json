@@ -16,6 +16,11 @@
         "show_text_below": true
       }
     },
+    "1646938322fcf7778e": {
+      "type": "hero",
+      "settings": {
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -39,6 +44,7 @@
   },
   "order": [
     "16468479847e5b4d2d",
+    "1646938322fcf7778e",
     "featured_collection"
   ]
 }
