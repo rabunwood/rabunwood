@@ -232,7 +232,7 @@ img {
 .home__img {
   width: auto;
   position: absolute;
-  top: -16rem;
+  top: 16rem;
   right: 1.5rem;
 }
 
