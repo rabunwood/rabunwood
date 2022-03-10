@@ -232,13 +232,12 @@ img {
 .home__img {
   width: 250px;
   position: absolute;
-  top: 50rem;
+  top: -25rem;
   right: 1.5rem;
 }
   
 .home__vo {
  top: 20rem;
-
 }
 
 .home__data {
