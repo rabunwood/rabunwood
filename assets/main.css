@@ -231,7 +231,6 @@ img {
 /*=============== HOME ===============*/
 .home__vo {
  position: relative;
- background-color: var(--container-color);
  top: 20rem;
 }
 
@@ -623,6 +622,7 @@ img {
 /* For medium devices */
 @media screen and (min-width: 576px) {
   .home__container {
+    background-color: var(--container-color);
     grid-template-columns: .8fr 1fr;
   }
   .home__data {
