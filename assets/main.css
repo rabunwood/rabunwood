@@ -624,6 +624,7 @@ img {
   .home__container {
     background-color: var(--container-color);
     grid-template-columns: .8fr 1fr;
+    margin-bottom: var(--mb-2);
   }
   .home__data {
     padding-top: 2rem;
