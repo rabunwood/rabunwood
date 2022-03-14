@@ -221,3 +221,13 @@
   margin-left: 0.8rem;
   white-space: nowrap;
 }
+
+@media screen and (min-width: 990px) {
+.grid--2-col-tablet.grid--4-col-desktop .multicolumn-list__item:nth-of-type(-n+4) {
+    margin-top: 1rem;
+}
+.grid--2-col-tablet.grid--4-col-desktop .multicolumn-list__item {
+    width: calc(33.3333% - 1rem * 3 / 4);
+    max-width: 33.3333%;
+}
+}
