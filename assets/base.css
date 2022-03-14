@@ -241,7 +241,7 @@
 :root,
 .color-background-1,
 .color-background-2 {
-  --color-card-hover: var(--color-base-text);
+  --color-card-hover: hsl(var(--hue-color), 4%, 10%);
 }
 
 .color-inverse {
