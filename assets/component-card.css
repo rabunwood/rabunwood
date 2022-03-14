@@ -275,7 +275,7 @@
 }
 
 .card-information > .price {
-  color: rgb(var(--color-foreground));
+  color: hsl(var(--hue-color), 4%, 75%);
 }
 
 .card-information > .rating {
