@@ -775,13 +775,3 @@ img {
     margin-top: 9rem;
   }
 }
-.section-template--15696924868832__1645067183dba6fd6d-padding .collapsible-content-wrapper-narrow {
-    max-width: 90% !important;
-}
-.main-page-title { display: none !important;}
-@media screen and (min-width: 990px) {
-.grid--2-col-tablet.grid--4-col-desktop .multicolumn-list__item {
-    max-width: 30% !important;
-    width: 30% !important;
-}
-}
