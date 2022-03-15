@@ -21,6 +21,11 @@
       "settings": {
       }
     },
+    "16473663656975534f": {
+      "type": "feature_icon_element",
+      "settings": {
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -45,6 +50,7 @@
   "order": [
     "16468479847e5b4d2d",
     "1646938322fcf7778e",
+    "16473663656975534f",
     "featured_collection"
   ]
 }
