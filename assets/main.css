@@ -438,7 +438,6 @@ img {
 
 .products__title, .products__price {
   font-size: var(--normal-font-size);
-  justify-items: center;
   align-items: center;
 }
 
