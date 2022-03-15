@@ -729,7 +729,7 @@ img {
     margin-bottom: var(--mb-2);
   }
   .products__container {
-    grid-template-columns: repeat(3, 162px);
+    grid-template-columns: repeat(4, 162px);
     gap: 6rem 3rem;
     padding-top: 5rem;
   }
