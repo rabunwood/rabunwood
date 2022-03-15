@@ -440,17 +440,6 @@ img {
   font-size: var(--normal-font-size);
 }
 
-.products__price {
-  font-weight: var(--font-semi-bold);
-}
-
-.products__button {
-  position: absolute;
-  right: .5rem;
-  bottom: .5rem;
-  padding: .5rem;
-  border-radius: .35rem;
-}
 
 /*=============== FOOTER ===============*/
 .footer__container {
