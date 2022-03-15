@@ -415,7 +415,7 @@ img {
 }
 
 .products__card {
-  position: absolute;
+  position: relative;
   height: 132px;
   background-color: var(--container-color);
   padding: .75rem;
