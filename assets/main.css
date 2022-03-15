@@ -437,7 +437,7 @@ img {
 }
 
 .products__title, .products__price {
-  font-size: var(--small-font-size);
+  font-size: var(--normal-font-size);
 }
 
 .products__price {
