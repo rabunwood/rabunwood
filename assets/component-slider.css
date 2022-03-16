@@ -21,7 +21,7 @@ slider-component {
 @media screen and (max-width: 749px) {
   .slider.slider--mobile {
     position: relative;
-    flex-wrap: wrap;
+    flex-wrap: inherit;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
