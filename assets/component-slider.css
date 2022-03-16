@@ -1,6 +1,6 @@
 slider-component {
   position: relative;
-  display: flex;
+  display: flow;
 }
 
 @media screen and (max-width: 989px) {
