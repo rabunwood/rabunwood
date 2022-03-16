@@ -1,6 +1,6 @@
 slider-component {
   position: block;
-  grid-template-columns: repeat(3);
+  grid-template-columns: repeat(3, auto);
 }
 
 @media screen and (max-width: 989px) {
