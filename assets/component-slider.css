@@ -90,7 +90,7 @@ slider-component {
 
 .slider--everywhere {
   position: relative;
-  flex-wrap: inherit;
+  flex-wrap: wrap;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
