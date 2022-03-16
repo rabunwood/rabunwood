@@ -1,7 +1,8 @@
 slider-component {
   position: static;
   display: grid;
-  grid-template-columns: 142px;
+  grid-template-columns: repeat(3);
+  justify-content: center;
 }
 
 @media screen and (max-width: 989px) {
