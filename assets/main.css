@@ -438,7 +438,7 @@ img {
 
 .products__title, .products__price {
   font-size: var(--h3-font-size);
-  margin-left: 5rem;
+  margin-left: 3rem;
   margin-bottom: 3rem;
 }
 
