@@ -1,9 +1,9 @@
 slider-component {
-  #shopify-section-template--15298090008815__1635154722a243cb8f .grid--2-col-tablet .multicolumn-list__item {
+  position: block;
+}
+.grid--2-col-tablet .multicolumn-list__item {
 margin-top: 1rem;
 max-width: 33.33% !important;
-}
-  position: block;
 }
 
 @media screen and (max-width: 989px) {
