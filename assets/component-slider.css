@@ -48,7 +48,7 @@ slider-component {
 @media screen and (min-width: 750px) {
   .slider.slider--tablet-up {
     position: relative;
-    flex-wrap: inherit;
+    flex-wrap: wrap;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
@@ -63,7 +63,7 @@ slider-component {
 
 @media screen and (max-width: 989px) {
   .slider.slider--tablet {
-    position: absolute;
+    position: relative;
     flex-wrap: wrap;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
