@@ -433,12 +433,12 @@ img {
 }
 
 .products__img2 {
-  width: 150px;
+  width: 170px;
   position: absolute;
   inset: 0;
   margin-right: auto;
   margin-left: auto;
-  top: -8rem;
+  top: -7rem;
 }
 
 .products__content {
