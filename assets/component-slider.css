@@ -1,5 +1,5 @@
 slider-component {
-  position: relative;
+  position: absolute;
   display: grid;
 }
 
