@@ -89,7 +89,7 @@ slider-component {
 }
 
 .slider--everywhere {
-  position: absolute;
+  position: relative;
   flex-wrap: inherit;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
