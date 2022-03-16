@@ -1,6 +1,6 @@
 slider-component {
   position: static;
-  display: flex_box;
+  display: inline-flex;
 }
 
 @media screen and (max-width: 989px) {
